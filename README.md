@@ -27,5 +27,7 @@
 * **NDC Conferences** - After launching in Oslo 2008, NDC quickly became one of Europe’s largest conferences
 for .NET & Agile development. Since then, the conference has evolved to encompass all technologies relevant to Software Developers. NDC speakers come from all over the world and are recognized as experts and thought leaders in their field.
   * https://www.youtube.com/@NDC 
-  
+* **Ben Eater** - Tutorial-style videos about electronics, computer architecture, networking, and various other technical subjects.
+  * https://www.youtube.com/@BenEater
+
   The list is going to expand!
