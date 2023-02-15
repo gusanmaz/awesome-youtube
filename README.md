@@ -29,5 +29,7 @@ for .NET & Agile development. Since then, the conference has evolved to encompas
   * https://www.youtube.com/@NDC 
 * **Ben Eater** - Tutorial-style videos about electronics, computer architecture, networking, and various other technical subjects.
   * https://www.youtube.com/@BenEater
+* ** Andrej Karpathy** - Artifical Intelligence, Neural Networks...
+  * https://www.youtube.com/@AndrejKarpathy
 
   The list is going to expand!
