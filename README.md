@@ -20,7 +20,7 @@
   * https://www.youtube.com/@ColdFusion
 * **BobbyBroccoli** - Broccumentaries into science scandals and controversies.
   * https://www.youtube.com/@BobbyBroccoli
-* **This Doesn't Compute** - Retrocomputing related videos. The channel is particullary into old Apple computers.
+* **This Doesn't Compute** - Retrocomputing related videos. The channel is particularly into old Apple computers.
   * https://www.youtube.com/@ThisDoesNotCompute
 * **RetroBytes** - Retrocomputing
   * https://www.youtube.com/@RetroBytesUK
